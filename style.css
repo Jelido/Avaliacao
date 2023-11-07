@@ -40,13 +40,18 @@ body {
 
 }
 
-#input{
+#input1{
 
-    height: 25px;
-    width: 200px;
     margin-bottom: 20px;
 
 }
+
+#input2{
+
+    margin-bottom: 20px;
+
+}
+
 
 #botão{
 
